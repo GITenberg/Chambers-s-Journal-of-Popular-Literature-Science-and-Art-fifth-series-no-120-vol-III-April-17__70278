@@ -1,5 +1,8 @@
 _repo: Chambers-s-Journal-of-Popular-Literature-Science-and-Art-fifth-series-no-120-vol-III-April-17__70278
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70278-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70278#Chambers-s-Journal-of-Popular-Literature-Science-and-Art-fifth-series-no-120-vol-III-April-17_
 gutenberg_issued: '2023-03-13'
 identifiers:
   gutenberg: '70278'
